@@ -1,6 +1,6 @@
 # Machine Learning Project on Housing Dataset
 
-## Introduction
+## Introductiont
 In this project, I have used the Linear Regression algorithm to predict the house price based on various features like area, bedrooms, bathrooms, stories, parking, guest room, main road, basement, hotwaterheating, airconditioning, prefarea, furnishingstatus.
 
 ## Objective
